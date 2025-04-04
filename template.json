@@ -1,0 +1,6 @@
+{
+  "displayName": "Azgaar Map Viewer",
+  "desc": "WebGL template for Azgaar Fantasy Map Generator integration",
+  "defaultTexture": "thumbnail.png",
+  "version": "1.0"
+}
